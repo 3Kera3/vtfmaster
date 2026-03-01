@@ -23,7 +23,7 @@ Fonctionnalités principales :
 
 ---
 
-## 🇬🇧 Description
+## EN Description
 
 VTF Master simplifies the texture workflow for GMod.
 
