@@ -10,7 +10,7 @@ VTF Master is a graphical tool that converts images to VTF and automatically gen
 ### 🏠 Conversion VTF / VMT
 
 <p align="center">
-  <img src="home.png" width="800">
+  <img src="Pictures/home.png" width="800">
 </p>
 
 ---
@@ -18,7 +18,7 @@ VTF Master is a graphical tool that converts images to VTF and automatically gen
 ### ✏️ VMT Edit
 
 <p align="center">
-  <img src="edit.png" width="800">
+  <img src="Pictures/edit.png" width="800">
 </p>
 
 ---
@@ -26,7 +26,7 @@ VTF Master is a graphical tool that converts images to VTF and automatically gen
 ### 📦 Addon Builder
 
 <p align="center">
-  <img src="addon.png" width="800">
+  <img src="Pictures/addon.png" width="800">
 </p>
 
 ---
