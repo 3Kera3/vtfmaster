@@ -5,6 +5,34 @@ VTF Master is a graphical tool that converts images to VTF and automatically gen
 
 ---
 
+## 🤖 À propos du projet / About this project
+
+### FR
+
+Ce logiciel a été développé avec l’aide de l’intelligence artificielle afin d’optimiser et d’accélérer mes tâches liées à la création de contenu pour Garry’s Mod.  
+L’IA m’a servi d’assistant technique pour structurer, améliorer et faire évoluer le projet.
+
+VTF Master est **open source**.  
+Tout le monde est libre de le modifier, l’améliorer, le fork ou proposer des optimisations.
+
+Je serais très intéressé de voir les améliorations ou modifications apportées au projet.  
+N’hésitez pas à partager vos versions, idées ou pull requests.
+
+---
+
+### EN
+
+This software was developed with the help of artificial intelligence to optimize and speed up my workflow related to Garry’s Mod content creation.  
+AI was used as a technical assistant to structure, improve and evolve the project.
+
+VTF Master is **open source**.  
+Anyone is free to modify it, improve it, fork it or suggest enhancements.
+
+I would be very interested in seeing the improvements or modifications made to this project.  
+Feel free to share your versions, ideas or pull requests.
+
+---
+
 ## 🖼 Interface
 
 ### 🏠 Conversion VTF / VMT
