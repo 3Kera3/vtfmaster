@@ -31,7 +31,7 @@ VTF Master is a graphical tool that converts images to VTF and automatically gen
 
 ---
 
-## 🇫🇷 Description
+## FR Description
 
 VTF Master simplifie le workflow de création de textures pour GMod.
 
@@ -49,7 +49,7 @@ Fonctionnalités principales :
 
 ---
 
-## 🇬🇧 Description
+## EN Description
 
 VTF Master simplifies the texture workflow for GMod.
 
